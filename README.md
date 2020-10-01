@@ -1,5 +1,7 @@
 # Jack Mower project
 
+Implementation with Kotlin coroutines
+
 ## Specification
 We want to develop an algorithm to mow rectangular surfaces.
 
